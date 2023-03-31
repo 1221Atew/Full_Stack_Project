@@ -1,0 +1,11 @@
+.form-container{
+  padding-top: 40px;
+  justify-content: center;
+}
+.form-field{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.error-message{
+  color: red;
+}

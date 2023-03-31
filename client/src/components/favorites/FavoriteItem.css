@@ -1,0 +1,12 @@
+.favorite-image img{
+    width: 100px;
+    height: 100px;
+}
+.favorite-detail{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 1px solid #f1efeb;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,9 @@
+.cart-image img{
+    width: 100px;
+    height: 100px;
+}
+.cart-detail{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
