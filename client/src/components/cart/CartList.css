@@ -1,0 +1,33 @@
+.cart{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.sub-cart{
+    background-color: white;
+    margin:0 5%;
+    
+}
+.cart-header{
+    border-bottom: 1px solid #f1efeb;
+}
+.no-cart{
+    padding-bottom: 10px;
+}
+
+.carts{
+    border-bottom: 1px solid #f1efeb;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.cart-order{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.total h4 {
+    font-weight: 900;
+}
+.order-button {
+    padding-left: 10px;
+    padding-top: 10px;
+}

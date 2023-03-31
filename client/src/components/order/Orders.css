@@ -1,0 +1,22 @@
+.order{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.sub-order{
+    background-color: white;
+    margin:0 5%;
+}
+.order-header{
+    border-bottom: 1px solid #f1efeb;
+}
+.no-order{
+    padding-bottom: 10px;
+}
+.my-orders{
+    border-bottom: 1px solid #f1efeb;
+}
+.order-detail{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

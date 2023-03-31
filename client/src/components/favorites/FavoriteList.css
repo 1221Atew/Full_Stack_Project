@@ -1,0 +1,15 @@
+.favorite{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.sub-favorite{
+    background-color: white;
+    margin:0 5%;
+}
+.favorite-header{
+    border-bottom: 1px solid #f1efeb;
+}
+.no-favorite{
+    padding-bottom: 10px;
+}
+

@@ -1,0 +1,29 @@
+.home-hero{
+    position: relative; 
+    width: 100%;
+    margin-top: -20px;
+    height: 500px;
+    background-image: url('../../assets/hero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .home-hero h1{
+    font-weight: 300;
+    padding-top: 10%;
+    color: #fff;
+    text-align: center;
+  }
+  .home-hero em{
+    font-weight: 300;
+    animation: myanimation 10s infinite;
+  }
+  @keyframes myanimation {
+    0% {color: #ffb703;}
+    25%{color:#f72585;}
+    50%{color:#06d6a0;}
+    75%{color:#c77dff;}
+    100% {color:white ;}
+  }
+  .hero-button{
+    text-align: center;
+  }

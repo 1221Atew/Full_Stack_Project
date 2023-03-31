@@ -1,0 +1,19 @@
+.product-detail{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.sub-product-detail{
+    background-color: white;
+    margin:0 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.product-detail-image img {
+    width: 400px;
+    height: 400px;
+}
+.product-detail-para p {
+    text-align: left;
+}
